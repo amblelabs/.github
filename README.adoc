@@ -1,3 +1,19 @@
+:discord: link:https://discord.com/invite/WjKhRjavCj
+
+:badge-modrinth: image:https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg[Modrinth, height=56]
+:badge-curseforge: image:https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg[CurseForge, height=56]
+
+:badge-neoforge: image:https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/neoforge_vector.svg[Forge, height=56]
+:badge-fabric: image:https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/supported/fabric_vector.svg[Fabric, height=56]
+:badge-amblekit: image:https://raw.githubusercontent.com/amblelabs/modkit/refs/heads/main/promo/cozy_vector_requires.svg[AmbleKit, height=56]
+
+:badge-gh: image:https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg[GitHub, height=32]
+:badge-web: image:https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/documentation/website_vector.svg[Website, height=32]
+:badge-kofi: image:https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/donate/kofi-singular_vector.svg[Donate, height=32]
+:badge-sponsor: image:https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/donate/ghsponsors-singular_vector.svg[Sponsor, height=32]
+:badge-donate: image:https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/donate/generic-singular_vector.svg[Donate, height=32]
+:badge-yt: image:https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/youtube-singular_vector.svg[YouTube, height=32]
+
 # AmbleLabs
 
 === Our Team
