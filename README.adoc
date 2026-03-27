@@ -1,4 +1,5 @@
 :discord: link:https://discord.com/invite/WjKhRjavCj
+:youtube: link:https://www.youtube.com/@AmbleLabs
 
 :badge-modrinth: image:https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg[Modrinth, height=56]
 :badge-curseforge: image:https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg[CurseForge, height=56]
@@ -13,8 +14,13 @@
 :badge-sponsor: image:https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/donate/ghsponsors-singular_vector.svg[Sponsor, height=32]
 :badge-donate: image:https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/donate/generic-singular_vector.svg[Donate, height=32]
 :badge-yt: image:https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/youtube-singular_vector.svg[YouTube, height=32]
+:badge-discord: image:https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg[Chat with us on Discord, height=56]
+:badge-youtube: image:https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/youtube-plural_vector.svg[Our YouTube, height=56]
 
 # AmbleLabs
+
+{discord}[{badge-discord}]
+{youtube}[{badge-youtube}]
 
 === Our Team
 
