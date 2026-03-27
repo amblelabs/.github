@@ -66,16 +66,6 @@
 * **Echo** - Wiki Curator: {echo-gh}[{badge-gh}]
 * **Tree** - Wiki Curator: {tree-gh}[{badge-gh}]
 
-++++
-<div align="center">
-++++
-
-image::https://repobeats.axiom.co/api/embed/e12159e7f3b47c4380a536b0b4481e9e2fce4aa4.svg[]
-
-++++
-</div>
-++++
-
 === Thank You's
 
 * Rhyno (Minecraft Server Host)
