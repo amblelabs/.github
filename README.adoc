@@ -16,6 +16,7 @@
 :badge-yt: image:https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/youtube-singular_vector.svg[YouTube, height=32]
 :badge-discord: image:https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg[Chat with us on Discord, height=56]
 :badge-youtube: image:https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/youtube-plural_vector.svg[Our YouTube, height=56]
+:badge-twitter: image:https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/twitter-singular_vector.svg[Twitter (X), height=32]
 
 # AmbleLabs
 
@@ -76,6 +77,8 @@
 
 :classic-kofi: link:https://ko-fi.com/redpanda39441
 
+:wazzaki-twitter: link:https://x.com/Wazzakii_W
+
 * **Loqor** - Project Manager & Lead Frontend Dev: {loqor-gh}[{badge-gh}] {loqor-web}[{badge-web}] {loqor-donate}[{badge-kofi}]
 * **theoretically** - Lead Backend Dev: {theo-gh}[{badge-gh}] {theo-web}[{badge-web}] {theo-donate}[{badge-donate}]
 * **duzo** - Programming: {duzo-gh}[{badge-gh}] {duzo-web}[{badge-web}] {duzo-donate}[{badge-sponsor}]
@@ -87,7 +90,7 @@
 * **Lake** - Programming: {lake-gh}[{badge-gh}] {lake-web}[{badge-web}]
 
 * **Ouro** - Lead Art Director: {ouro-gh}[{badge-gh}] {ouro-web}[{badge-web}]
-* **Wazzaki** - Assets
+* **Wazzaki** - Assets: {wazzaki-twitter}[{badge-twitter}]
 
 * **Red Panda (Classic)** - Builder, Animator & Sound Design: {classic-kofi}[{badge-kofi}]
 * **Dian** - Music & Sound Design: {dian-gh}[{badge-gh}]
