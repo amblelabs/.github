@@ -19,8 +19,16 @@
 
 # AmbleLabs
 
+++++
+<div align="center">
+++++
+
 {discord}[{badge-discord}]
 {youtube}[{badge-youtube}]
+
+++++
+</div>
+++++
 
 === Our Team
 
