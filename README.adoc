@@ -1,0 +1,81 @@
+# AmbleLabs
+
+=== Our Team
+
+:a1: pass:[<a href="]
+:a2: pass:[">]
+:a3: pass:[</a>]
+:s: pass:[<img src="]
+:e: pass:[" width="32" height="32" align="center">]
+
+:loqor-gh: link:https://github.com/Loqor
+:loqor-web: link:https://loqor.dev/
+:loqor-donate: link:https://ko-fi.com/loqor
+
+:theo-gh: link:https://github.com/drtheodor
+:theo-web: link:https://theo.is-a.dev/
+:theo-donate: link:https://boosty.to/dr.theo
+
+:duzo-gh: link:https://github.com/duzos
+:duzo-web: link:https://duzo.is-a.dev/
+:duzo-donate: link:https://github.com/sponsors/duzos
+
+:addie-gh: link:https://github.com/Addi3
+:addie-web: link:https://addi3.github.io/
+
+:saturn-gh: link:https://github.com/Saturnorsomthing
+
+:monke-gh: link:https://github.com/rapbattlegod32
+
+:pan-gh: link:https://github.com/Mansarde
+
+:lake-gh: link:https://github.com/lakehascake
+:lake-web: link:https://en.pronouns.page/@lakehascake
+
+:ouro-gh: link:https://github.com/Ouroboros-Games
+:ouro-web: link:https://ouro-theartist.carrd.co/
+
+:echo-gh: link:https://github.com/EchoDidAThing1048
+
+:tree-gh: link:https://github.com/trerrturyy
+
+:dian-gh: link:https://github.com/Dian-Vidus
+
+:lucien-yt: link:https://youtube.com/@marc.nurture
+:lucien-ig: link:https://www.instagram.com/marc.nurture
+
+:classic-kofi: link:https://ko-fi.com/redpanda39441
+
+* **Loqor** - Project Manager & Lead Frontend Dev: {loqor-gh}[{badge-gh}] {loqor-web}[{badge-web}] {loqor-donate}[{badge-kofi}]
+* **theoretically** - Lead Backend Dev: {theo-gh}[{badge-gh}] {theo-web}[{badge-web}] {theo-donate}[{badge-donate}]
+* **duzo** - Programming: {duzo-gh}[{badge-gh}] {duzo-web}[{badge-web}] {duzo-donate}[{badge-sponsor}]
+* **Saturn** - Game Director, Sponsor & QA Lead: {saturn-gh}[{badge-gh}]
+
+* **Addi3 (AddieDaBaddie)** - Programming, Artist: {addie-gh}[{badge-gh}] {addie-web}[{badge-web}]
+* **Monke** - Programming: {monke-gh}[{badge-gh}]
+* **Pan** - Programming: {pan-gh}[{badge-gh}]
+* **Lake** - Programming: {lake-gh}[{badge-gh}] {lake-web}[{badge-web}]
+
+* **Ouro** - Lead Art Director: {ouro-gh}[{badge-gh}] {ouro-web}[{badge-web}]
+* **Wazzaki** - Assets
+
+* **Red Panda (Classic)** - Builder, Animator & Sound Design: {classic-kofi}[{badge-kofi}]
+* **Dian** - Music & Sound Design: {dian-gh}[{badge-gh}]
+* **Lucien** - Music: {lucien-yt}[{badge-yt}]
+* **RatZoomie** - Music
+* **Echo** - Wiki Curator: {echo-gh}[{badge-gh}]
+* **Tree** - Wiki Curator: {tree-gh}[{badge-gh}]
+
+++++
+<div align="center">
+++++
+
+image::https://repobeats.axiom.co/api/embed/e12159e7f3b47c4380a536b0b4481e9e2fce4aa4.svg[]
+
+++++
+</div>
+++++
+
+=== Thank You's
+
+* Rhyno (Minecraft Server Host)
