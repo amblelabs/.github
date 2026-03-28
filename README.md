@@ -1,0 +1,31 @@
+# AmbleLabs
+
+<div align="center">
+
+<a href="https://discord.com/invite/WjKhRjavCj"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg" alt="Chat with us on Discord" height="56" align="center"></a>
+<a href="https://www.youtube.com/@AmbleLabs"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/youtube-plural_vector.svg" alt="Our YouTube" height="56" align="center"></a>
+
+</div>
+
+### Our Team
+
+- **Loqor** - Project Manager & Lead Frontend Dev: <a href="https://github.com/Loqor"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg" alt="GitHub" height="32" align="center"></a> <a href="https://loqor.dev/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/documentation/website_vector.svg" alt="Website" height="32" align="center"></a> <a href="https://ko-fi.com/loqor"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/donate/kofi-singular_vector.svg" alt="Donate" height="32" align="center"></a>
+- **theoretically** - Lead Backend Dev: <a href="https://github.com/drtheodor"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg" alt="GitHub" height="32" align="center"></a> <a href="https://theo.is-a.dev/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/documentation/website_vector.svg" alt="Website" height="32" align="center"></a> <a href="https://boosty.to/dr.theo"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/donate/generic-singular_vector.svg" alt="Donate" height="32" align="center"></a>
+- **duzo** - Programming: <a href="https://github.com/duzos"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg" alt="GitHub" height="32" align="center"></a> <a href="https://duzo.is-a.dev/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/documentation/website_vector.svg" alt="Website" height="32" align="center"></a> <a href="https://github.com/sponsors/duzos"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/donate/ghsponsors-singular_vector.svg" alt="Sponsor" height="32" align="center"></a>
+- **Saturn** - Game Director, Sponsor & QA Lead: <a href="https://github.com/Saturnorsomthing"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg" alt="GitHub" height="32" align="center"></a>
+- **Addi3 (AddieDaBaddie)** - Programming, Artist: <a href="https://github.com/Addi3"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg" alt="GitHub" height="32" align="center"></a> <a href="https://addi3.github.io/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/documentation/website_vector.svg" alt="Website" height="32" align="center"></a>
+- **Monke** - Programming: <a href="https://github.com/rapbattlegod32"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg" alt="GitHub" height="32" align="center"></a>
+- **Pan** - Programming: <a href="https://github.com/Mansarde"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg" alt="GitHub" height="32" align="center"></a>
+- **Lake** - Programming: <a href="https://github.com/lakehascake"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg" alt="GitHub" height="32" align="center"></a> <a href="https://en.pronouns.page/@lakehascake"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/documentation/website_vector.svg" alt="Website" height="32" align="center"></a>
+- **Ouro** - Lead Art Director: <a href="https://github.com/Ouroboros-Games"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg" alt="GitHub" height="32" align="center"></a> <a href="https://ouro-theartist.carrd.co/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/documentation/website_vector.svg" alt="Website" height="32" align="center"></a>
+- **Wazzaki** - Assets: <a href="https://x.com/Wazzakii_W"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/twitter-singular_vector.svg" alt="Twitter (X)" height="32" align="center"></a>
+- **Red Panda (Classic)** - Builder, Animator & Sound Design: <a href="https://ko-fi.com/redpanda39441"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/donate/kofi-singular_vector.svg" alt="Donate" height="32" align="center"></a>
+- **Dian** - Music & Sound Design: <a href="https://github.com/Dian-Vidus"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg" alt="GitHub" height="32" align="center"></a>
+- **Lucien** - Music: <a href="https://youtube.com/@marc.nurture"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/youtube-singular_vector.svg" alt="YouTube" height="32" align="center"></a>
+- **RatZoomie** - Music
+- **Echo** - Wiki Curator: <a href="https://github.com/EchoDidAThing1048"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg" alt="GitHub" height="32" align="center"></a>
+- **Tree** - Wiki Curator: <a href="https://github.com/trerrturyy"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg" alt="GitHub" height="32" align="center"></a>
+
+### Thank You's
+
+- Rhyno (Minecraft Server Host)
