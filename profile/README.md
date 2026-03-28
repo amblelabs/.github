@@ -25,7 +25,7 @@
 - **Dian** - Music & Sound Designer: <a href="https://github.com/Dian-Vidus"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg" alt="GitHub" height="32" align="center"></a>
 - **Lucien** - Music: <a href="https://youtube.com/@marc.nurture"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/youtube-singular_vector.svg" alt="YouTube" height="32" align="center"></a>
 - **RatZoomie** - Music
-- **Echo** - Wiki Curator: <a href="https://github.com/EchoDidAThing1048"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg" alt="GitHub" height="32" align="center"></a>
+- **Echo** - Wiki Curator: <a href="https://github.com/EchoDidAThing1048"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg" alt="GitHub" height="32" align="center"></a> <a href="https://echodidathing1048.github.io/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/documentation/website_vector.svg" alt="Website" height="32" align="center"></a>
 - **Tree** - Wiki Curator: <a href="https://github.com/trerrturyy"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/github_vector.svg" alt="GitHub" height="32" align="center"></a>
 
 ### Thank You's
