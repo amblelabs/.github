@@ -1,6 +1,8 @@
-# AmbleLabs
-
 <div align="center">
+
+<img alt="AmbleLabs Logo" src="amblelabs.png" height="256">
+
+# AmbleLabs
 
 <a href="https://discord.com/invite/WjKhRjavCj"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg" alt="Chat with us on Discord" height="56" align="center"></a>
 <a href="https://www.youtube.com/@AmbleLabs"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/youtube-plural_vector.svg" alt="Our YouTube" height="56" align="center"></a>
