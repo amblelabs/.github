@@ -4,6 +4,7 @@
 
 # AmbleLabs
 
+<a href="https://codeberg.org/amblelabs"><img alt="See us on Codeberg" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/codeberg-plural_vector.svg"></a>
 <a href="https://discord.com/invite/WjKhRjavCj"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg" alt="Chat with us on Discord" height="56" align="center"></a>
 <a href="https://www.youtube.com/@AmbleLabs"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/youtube-plural_vector.svg" alt="Our YouTube" height="56" align="center"></a>
 
